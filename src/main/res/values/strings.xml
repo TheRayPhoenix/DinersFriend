@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Diner\'s Friend</string>
+
+    /* Calculator Screen Strings */
+
+    <string name="str_buttonText">CALCULATE</string>
+    <string name="str_labelTotalBill">Total Bill:</string>
+    <string name="str_labelServiceLevel">Service Level:</string>
+    <string name="str_labelPeopleCount">Number of People:</string>
+    <string name="str_imageDescription">Restaurant Check</string>
+
+    /* Spinner Strings */
+
+    <string name="str_levelOfService_Amazing">Amazing</string>
+    <string name="str_levelOfService_excellent">Excellent</string>
+    <string name="str_levelOfService_average">Average</string>
+    <string name="str_levelOfService_poor">Poor</string>
+    <string name="str_levelOfService_Unacceptable">Unacceptable</string>
+</resources>
